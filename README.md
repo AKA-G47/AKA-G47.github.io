@@ -1,12 +1,7 @@
 
 <HTML>
 
-
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html> <head>
-<title>ABDEL KADER A GERALDO</title>
-</head>
-
+ 
 
 <!--<BODY BGCOLOR="#FFFFFF"  TEXT="#000000" VLINK="#ff00ff" LINK="#a50000"> -->
 
