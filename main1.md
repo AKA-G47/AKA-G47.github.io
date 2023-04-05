@@ -1,6 +1,6 @@
-
-<HTML>
-
+@ -1,7 +1,69 @@
+<!DOCTYPE html>
+<html>
  
  
 <body>
