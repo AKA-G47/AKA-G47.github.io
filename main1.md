@@ -40,11 +40,11 @@ Nonequilibrium Langevin Dynamics.  Molecular Simulation, Volume 45, Issue 11 (20
  Matthew Dobson and Abdel Kader A Geraldo.  Simple Periodic Boundary Conditions for Molecular
 Simulation of Uniaxial Flow. Journal of Computational Physics, Volume 473, Issues (2023), pages 111740.  
  <a href="https://www.sciencedirect.com/science/article/pii/S0021999122008038">DOI:  10.1016/j.jcp.2022.111740</a> 
-<a href="https://arxiv.org/abs/2110.08342" style="color: red;"> Preprint</a> </li>
+<a href="https://arxiv.org/abs/2110.08342" style="color: red;"> (Preprint)</a> </li>
 
 <li>
  Matthew Dobson and Abdel Kader A Geraldo. Convergence of Nonequilibrium Langevin Dynamics for Planar Flows.  Accepted for publication in the Journal of Statistical Physics .  
-<a href="https://arxiv.org/abs/2208.14358">preprint</a> </li>
+<a href="https://arxiv.org/abs/2208.14358"> (Preprint)</a> </li>
  
  <h2>Articles and Manuscripts</h2>  <a name="Articles"></a> 
 	
