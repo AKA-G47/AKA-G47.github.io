@@ -9,7 +9,7 @@
 <table width="100%" border="0">
 <tr>
 <td>
- <IMG SRC="IMG-0880-aa.jpg" width="170"
+ <IMG SRC="IMG-0880-aa.jpg" width="270"
 hspace="30" vspace="30"
 height="172" ALT="photo"><P> 
 </td>
@@ -18,8 +18,7 @@ height="172" ALT="photo"><P>
    <A HREF="http://www.math.umass.edu/">Department of Mathematics and Statistics, UMass Amherst</A>
    <br>710 N. Pleasant Street 
    <br>Amherst, MA 01003, USA
-<br>
-
+<br> 
 <br> <A HREF="#About">About Me</A> 
 <br> <A HREF="#Research">Research Interests</A> 
 <br> <A HREF="#Research"> Publications List</A>   
