@@ -10,7 +10,7 @@
 <table width="100%" border="0">
 <tr>
 <td>
- <IMG SRC="IMG-0880-a.jpg" width="270"
+ <IMG SRC="IMG-0880-a.jpg" width="370"
 hspace="30" vspace="30"
 height="372" ALT="photo"><P> 
 </td>
