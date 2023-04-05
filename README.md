@@ -5,7 +5,7 @@
 <table width="100%" border="0">
 <tr>
 <td>
- <IMG SRC="IMG-0880-a.jpg" width="470"
+ <IMG SRC="IMG-0880-a.jpg" width="70"
 hspace="100" vspace="100"
 height="172" ALT="photo"><P> 
 </td>
