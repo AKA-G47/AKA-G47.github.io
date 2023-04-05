@@ -29,8 +29,6 @@ height="372" ALT="photo"><P>
  <!-- <br><I>Phone</I> 413-545-7194  -->
  <!-- <br><I>E-mail:</I> my last name at math.umass.edu  -->
 <br>
-<A href="reu/reu.html">UMass Research Experiences for Undergrduates</a>
-<br>
 <A HREF="#Research">Research Interests and Publications</A>  
 </td>
 </tr>
@@ -40,14 +38,7 @@ height="372" ALT="photo"><P>
 
 <br>
 <h2>Research and Publications</h2> <a name="Research"></a>
-
-<h3>Atomistic-to-Continuum Schemes</h3>
-<ol>  
- 
- 
-
-<h3>Nonequilibrium Molecular Dynamics</h3>
-<ol> 
+  
 <li>
  Matthew Dobson and Abdel Kader Geraldo.  Strong Convergence of Integrators for
 Nonequilibrium Langevin Dynamics.  Molecular Simulation, Volume 45, Issue 11 (2019) 912--920..  
