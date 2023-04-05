@@ -2,9 +2,7 @@
 <HTML>
 
  
-
-<!--<BODY BGCOLOR="#FFFFFF"  TEXT="#000000" VLINK="#ff00ff" LINK="#a50000"> -->
-
+ 
 <body>
 
 <table width="100%" border="0">
@@ -19,10 +17,6 @@ height="372" ALT="photo"><P>
    <A HREF="http://www.math.umass.edu/">Department of Mathematics and Statistics, UMass Amherst</A>
    <br>710 N. Pleasant Street 
    <br>Amherst, MA 01003, USA
- <!--  <br>Room: LGRT 1430 -->
- <!--  <br> -->
- <!-- <br><I>Phone</I> 413-545-7194  -->
- <!-- <br><I>E-mail:</I> my last name at math.umass.edu  -->
 <br>
 <br> <A HREF="#Research">Research Interests and Publications</A>   
 <br> <A HREF="#Articles">Articles and Manuscripts</A>  
