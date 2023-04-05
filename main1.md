@@ -34,12 +34,13 @@ height="172" ALT="photo"><P>
  Matthew Dobson and Abdel Kader A Geraldo.  Strong Convergence of Integrators for
 Nonequilibrium Langevin Dynamics.  Molecular Simulation, Volume 45, Issue 11 (2019) 912--920.. 
  <a href="https://www.tandfonline.com/doi/full/10.1080/08927022.2019.1610950">DOI:  10.1080/08927022.2019.1610950</a>  
- <a href="http://arxiv.org/abs/1709.08118" style="color: red">Preprint</a> </li>
+ <a href="http://arxiv.org/abs/1709.08118" style="color: red"> Preprint</a> </li>
 	
 <li>
  Matthew Dobson and Abdel Kader A Geraldo.  Simple Periodic Boundary Conditions for Molecular
 Simulation of Uniaxial Flow. Journal of Computational Physics, Volume 473, Issues (2023), pages 111740.  
-<a href="https://arxiv.org/abs/2110.08342">preprint</a> </li>
+ <a href=" https://www.sciencedirect.com/science/article/pii/S0021999122008038">DOI:  10.1016/j.jcp.2022.111740</a> 
+<a href="https://arxiv.org/abs/2110.08342" style="color: red"> Preprint</a> </li>
 
 <li>
  Matthew Dobson and Abdel Kader A Geraldo. Convergence of Nonequilibrium Langevin Dynamics for Planar Flows.  Accepted for publication in the Journal of Statistical Physics .  
