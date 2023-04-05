@@ -8,9 +8,9 @@
 <table width="100%" border="0">
 <tr>
 <td>
- <IMG SRC="IMG-0880-a.jpg" width="270"
+ <IMG SRC="IMG-0880-a.jpg" width="70"
 hspace="30" vspace="30"
-height="272" ALT="photo"><P> 
+height="172" ALT="photo"><P> 
 </td>
 <td width="99%" valign="top">
 <H2>Abdel Kader A. Geraldo</H2>
