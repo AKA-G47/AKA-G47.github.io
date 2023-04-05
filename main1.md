@@ -36,7 +36,7 @@ height="172" ALT="photo"><P>
 	
 
 <br>
-<h2>About Me</h2> <a name="Research Interests"></a>
+<h2>Research Interests</h2> <a name="Research Interests"></a>
 <p>  My research interests are in Statistical Mechanics, Nonequilibrium Molecular Dynamics, and
  Machine Learning. 
 </p>
