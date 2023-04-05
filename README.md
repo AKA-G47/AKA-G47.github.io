@@ -48,10 +48,6 @@ Nonequilibrium Langevin Dynamics.  Molecular Simulation, Volume 45, Issue 11 (20
  Matthew Dobson and Abdel Kader Geraldo.  Simple Periodic Boundary Conditions for Molecular
 Simulation of Uniaxial Flow.  manuscript.  
 <a href="https://arxiv.org/abs/2110.08342">preprint</a> </li>
-
-</ol>
- 
-</ol>
  
   
 <hr>
