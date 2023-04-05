@@ -24,8 +24,8 @@ height="372" ALT="photo"><P>
  <!-- <br><I>Phone</I> 413-545-7194  -->
  <!-- <br><I>E-mail:</I> my last name at math.umass.edu  -->
 <br>
-<A HREF="#Research">Research Interests and Publications</A>   
-<A HREF="#Articles">Articles and Manuscripts</A>  
+<br> <A HREF="#Research">Research Interests and Publications</A>   
+<br> <A HREF="#Articles">Articles and Manuscripts</A>  
 </td>
 </tr>
 </table>
@@ -45,14 +45,11 @@ Nonequilibrium Langevin Dynamics.  Molecular Simulation, Volume 45, Issue 11 (20
 Simulation of Uniaxial Flow.  manuscript.  
 <a href="https://arxiv.org/abs/2110.08342">preprint</a> </li>
  
-  
-				<div class="row">
-				<h3>Articles and Manuscripts</h3>  <a name="Articles"></a>
-				<font size=3>
-				<ul style="list-style-type:circle;">
-				 <li> <a href="seminaryear1_deptnewsletter.pdf">Math Systems for Diagnosis and Treatment of Breast Cancer</a>, C. Amorin, G. P. Andrade, S. Castro-Pearson, A. K. Geraldo, B. Iles, D. Katsaros, T. Mullen, S. Nguyen, O. Spiro, and M. Sych.  In <a href="https://www.math.umass.edu/sites/www.math.umass.edu/files/newsletters/2017mathnewsletter.pdf">UMass Amherst Department of Mathematics & Statistics Newsletter</a> (2017) </li> 
-				</ul>
-				</div>
+
+ <h2>Articles and Manuscripts</h2>  <a name="Articles"></a> 
+	
+<li> <a href="seminaryear1_deptnewsletter.pdf">Math Systems for Diagnosis and Treatment of Breast Cancer</a>, C. Amorin, G. P. Andrade, S. Castro-Pearson, A. K. Geraldo, B. Iles, D. Katsaros, T. Mullen, S. Nguyen, O. Spiro, and M. Sych.  In <a href="https://www.math.umass.edu/sites/www.math.umass.edu/files/newsletters/2017mathnewsletter.pdf">UMass Amherst Department of Mathematics & Statistics Newsletter</a> (2017) 
+	
 <hr>
 </body> </html>
 
