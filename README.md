@@ -1,10 +1,4 @@
-# aka-g47.github.io
-
-
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html> <head>
-<title>ABDEL KADER A GERALDO</title>
-</head>
+ 
 
 <body>
 
