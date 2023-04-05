@@ -19,16 +19,30 @@ height="172" ALT="photo"><P>
    <br>710 N. Pleasant Street 
    <br>Amherst, MA 01003, USA
 <br>
-<br> <A HREF="#Research">Research Interests and Publications</A>   
+
+<br> <A HREF="#About">About Me</A> 
+<br> <A HREF="#Research">Research Interests</A> 
+<br> <A HREF="#Research"> Publications List</A>   
 <br> <A HREF="#Articles">Articles and Manuscripts</A>  
 </td>
 </tr>
 </table>
 
 
+<br>
+<h2>About Me</h2> <a name="About"></a>
+<p> I'm a Ph.D student in <a href="https://www.umass.edu/mathematics-statistics/#">Applied Mathematics</a> at the <a href="https://www.umass.edu">University of Massachusetts Amherst</a> under the suppervision of <a href="https://people.math.umass.edu/~dobson/">Matthew Dobson</a>. Before starting my Ph.D, I completed an MS in applied math at UMass Amherst.</p>
+
+	
 
 <br>
-<h2>Research and Publications</h2> <a name="Research"></a>
+<h2>About Me</h2> <a name="Research Interests"></a>
+<p>  My research interests are in Statistical Mechanics, Nonequilibrium Molecular Dynamics, and
+ Machine Learning. 
+</p>
+				
+<br>
+<h2>Publications List</h2> <a name="Research"></a>
   
 <li>
  Matthew Dobson and Abdel Kader A Geraldo.  Strong Convergence of Integrators for
