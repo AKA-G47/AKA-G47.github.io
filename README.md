@@ -6,7 +6,7 @@
 <tr>
 <td>
  <IMG SRC="IMG-0880-a.jpg" width="170"
-hspace="100" vspace="100"
+hspace="10" vspace="10"
 height="172" ALT="photo"><P> 
 </td>
 <td width="99%" valign="top">
