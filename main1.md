@@ -30,16 +30,19 @@ height="172" ALT="photo"><P>
 <h2>Research and Publications</h2> <a name="Research"></a>
   
 <li>
- Matthew Dobson and Abdel Kader Geraldo.  Strong Convergence of Integrators for
+ Matthew Dobson and Abdel Kader A Geraldo.  Strong Convergence of Integrators for
 Nonequilibrium Langevin Dynamics.  Molecular Simulation, Volume 45, Issue 11 (2019) 912--920..  
 <a href="http://arxiv.org/abs/1709.08118">preprint</a> </li>
 
 <li>
- Matthew Dobson and Abdel Kader Geraldo.  Simple Periodic Boundary Conditions for Molecular
-Simulation of Uniaxial Flow.  manuscript.  
+ Matthew Dobson and Abdel Kader A Geraldo.  Simple Periodic Boundary Conditions for Molecular
+Simulation of Uniaxial Flow. Journal of Computational Physics, Volume 473, Issues (2023), pages 111740.  
 <a href="https://arxiv.org/abs/2110.08342">preprint</a> </li>
- 
 
+<li>
+ Matthew Dobson and Abdel Kader A Geraldo. Convergence of Nonequilibrium Langevin Dynamics for Planar Flows.  Accepted for publication in the Journal of Statistical Physics .  
+<a href="https://arxiv.org/abs/2208.14358">preprint</a> </li>
+ 
  <h2>Articles and Manuscripts</h2>  <a name="Articles"></a> 
 	
 <li> <a href="seminaryear1_deptnewsletter.pdf">Math Systems for Diagnosis and Treatment of Breast Cancer</a>, C. Amorin, G. P. Andrade, S. Castro-Pearson, A. K. Geraldo, B. Iles, D. Katsaros, T. Mullen, S. Nguyen, O. Spiro, and M. Sych.  In <a href="https://www.math.umass.edu/sites/www.math.umass.edu/files/newsletters/2017mathnewsletter.pdf">UMass Amherst Department of Mathematics & Statistics Newsletter</a> (2017) 
