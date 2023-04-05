@@ -5,9 +5,7 @@
 <table width="100%" border="0">
 <tr>
 <td>
- <IMG SRC="IMG-0880-a.jpg" width="170"
-hspace="170" vspace="170"
-height="172" ALT="photo"><P> 
+ <center><p><img src="IMG-0880-a.jpg" alt="picture of me" width="80%" height="80%"></p></center>
 </td>
 <td width="99%" valign="top">
 <H2>Abdel Kader A. Geraldo</H2>
