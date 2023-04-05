@@ -31,7 +31,7 @@ height="172" ALT="photo"><P>
 
 <br>
 <h2>About Me</h2> <a name="About"></a>
-<p> I'm a Ph.D student in <a href="https://www.umass.edu/mathematics-statistics/#">Applied Mathematics</a> at the <a href="https://www.umass.edu">University of Massachusetts Amherst</a> under the suppervision of <a href="https://people.math.umass.edu/~dobson/">Matthew Dobson</a>. Before starting my Ph.D, I completed an MS in applied math at UMass Amherst.</p>
+<p> I'm a Ph.D student in <a href="https://www.umass.edu/mathematics-statistics/#">Applied Mathematics</a> at the <a href="https://www.umass.edu">University of Massachusetts Amherst</a> under the suppervision of <a href="https://people.math.umass.edu/~dobson/">Matthew Dobson</a>. Before starting my Ph.D, I completed a <a href="https://www.umass.edu/mathematics-statistics/graduate/applied-ms"> MS in Applied Mathematics</a> at UMass Amherst.</p>
 
 	
 
