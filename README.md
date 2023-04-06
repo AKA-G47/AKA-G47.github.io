@@ -7,7 +7,7 @@
 <td width="25%"> 
  <IMG SRC="/.github/IMG-0880-a.jpg" width="90%"
 hspace="30" vspace="30"
-height="90%" alt="Logo" class="left" >  
+height="90%" alt="Logo" class="center" >  
 </td>
 <td  width="70%">
 	
