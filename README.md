@@ -12,7 +12,7 @@ height="90%" alt="Logo" class="center" >
 <td  width="50%">
 	
 <H2>Abdel Kader A. Geraldo</H2>
-   <A HREF="http://www.math.umass.edu/">Department of Mathematics and Statistics, UMass Amherst</A>
+   <A HREF="http://www.math.umass.edu/">Department of Mathematics and Statistics, University of Massachusetts Amherst</A>
    <br>710 N. Pleasant Street 
    <br>Amherst, MA 01003, USA
 <br> 
