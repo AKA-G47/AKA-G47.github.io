@@ -9,7 +9,7 @@
 hspace="30" vspace="30"
 height="90%" alt="Logo" class="left" >  
 </td>
-<td  width="65%">
+<td  width="70%">
 	
 <H2>Abdel Kader A. Geraldo</H2>
    <A HREF="http://www.math.umass.edu/">Department of Mathematics and Statistics, UMass Amherst</A>
