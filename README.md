@@ -3,10 +3,12 @@
 <body>
 
 <table width="100%" border="0">
-<tr>
+<tr> 
 <td>
- <center><p><img src="IMG-0880-a.jpg" alt="picture of me" width="80%" height="80%"></p></center>
-</td>
+ <IMG SRC="IMG-0880-a.jpg" width="80%"
+hspace="150" vspace="150"
+height="80%" ALT="photo"><P> 
+</td> 
 <td width="99%" valign="top">
 <H2>Abdel Kader A. Geraldo</H2>
    <A HREF="http://www.math.umass.edu/">Department of Mathematics and Statistics, UMass Amherst</A>
