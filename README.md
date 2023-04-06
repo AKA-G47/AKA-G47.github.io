@@ -2,7 +2,7 @@
 
 <body>
 
-<table width="100%" border="0">
+<table  >
 <tr> 
 <td>
  <IMG SRC="IMG-0880-a.jpg" width="80%"
