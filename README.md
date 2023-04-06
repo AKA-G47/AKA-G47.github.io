@@ -15,7 +15,7 @@ height="80%" ALT="photo"><P>
 <br> 
 <br> <A HREF="#About">About Me</A> 
 <br> <A HREF="#Research">Research Interests</A> 
-<br> <A HREF="#Research"> Publications List</A>   
+<br> <A HREF="#Research"> Publication List</A>   
 <br> <A HREF="#Articles">Articles and Manuscripts</A>  
 </td>
 </tr> 
@@ -34,7 +34,7 @@ height="80%" ALT="photo"><P>
 </p>
 				
 <br>
-<h2>Publications List</h2> <a name="Research"></a>
+<h2>Publication List</h2> <a name="Research"></a>
   
 <li>
  Matthew Dobson and Abdel Kader A Geraldo.  Strong Convergence of Integrators for
