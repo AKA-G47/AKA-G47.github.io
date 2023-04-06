@@ -1,7 +1,6 @@
  
  
-
-<table  >
+ 
 <tr> 
 <td>
  <IMG SRC="IMG-0880-a.jpg" width="80%"
@@ -19,8 +18,7 @@ height="80%" ALT="photo"><P>
 <br> <A HREF="#Research"> Publications List</A>   
 <br> <A HREF="#Articles">Articles and Manuscripts</A>  
 </td>
-</tr>
-</table>
+</tr> 
 
 
 <br>
