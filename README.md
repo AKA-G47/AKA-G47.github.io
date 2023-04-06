@@ -4,10 +4,11 @@
 <table width="100%" border="0">
 	 
 <tr>
-<td width="30%">
+<td width="25%">
+	<center>
  <IMG SRC="/.github/IMG-0880-a.jpg" width="90%"
 hspace="30" vspace="30"
-height="90%" ALT="Logo"><P> 
+height="90%" ALT="Logo"><center><P> 
 
 </td>
 <td  width="70%">
