@@ -3,7 +3,7 @@
  
 <tr> 
 <td>
- <IMG SRC="IMG-0880-a.jpg" width="80%"
+ <IMG SRC="/.github/IMG-0880-a.jpg" width="80%"
 hspace="150" vspace="150"
 height="80%" ALT="photo"><P> 
 </td> 
