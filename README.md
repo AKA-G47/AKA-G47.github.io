@@ -43,27 +43,27 @@ height="90%" ALT="Logo"><P>
 <h2>Publication List</h2> <a name="Research"></a>
   
 <li>
- Matthew Dobson and Abdel Kader A Geraldo.  Strong Convergence of Integrators for
+ Matthew Dobson and <b>Abdel Kader A Geraldo</b>.  Strong Convergence of Integrators for
 Nonequilibrium Langevin Dynamics.  Molecular Simulation, Volume 45, Issue 11 (2019) 912--920.. 
  <a href="https://www.tandfonline.com/doi/full/10.1080/08927022.2019.1610950">DOI:  10.1080/08927022.2019.1610950</a>  
  <a href="http://arxiv.org/abs/1709.08118" style="color: red;"> (Preprint)</a> </li>
 	
 <li>
- Matthew Dobson and Abdel Kader A Geraldo.  Simple Periodic Boundary Conditions for Molecular
+ Matthew Dobson and <b>Abdel Kader A Geraldo</b>.  Simple Periodic Boundary Conditions for Molecular
 Simulation of Uniaxial Flow. Journal of Computational Physics, Volume 473, Issues (2023), pages 111740.  
  <a href="https://www.sciencedirect.com/science/article/pii/S0021999122008038">DOI:  10.1016/j.jcp.2022.111740</a> 
 <a href="https://arxiv.org/abs/2110.08342" style="color: red;"> (Preprint)</a> </li>
 
 <li>
- Matthew Dobson and Abdel Kader A Geraldo. Convergence of Nonequilibrium Langevin Dynamics for Planar Flows.  Accepted for publication in the Journal of Statistical Physics .  
+ Matthew Dobson and <b>Abdel Kader A Geraldo</b>. Convergence of Nonequilibrium Langevin Dynamics for Planar Flows.  Accepted for publication in the Journal of Statistical Physics .  
 <a href="https://arxiv.org/abs/2208.14358" style="color: red;"> (Preprint)</a> </li>
  
  <h2>Articles and Manuscripts</h2>  <a name="Articles"></a> 
 	
-<li> <a href="seminaryear1_deptnewsletter.pdf">Math Systems for Diagnosis and Treatment of Breast Cancer</a>, C. Amorin, G. P. Andrade, S. Castro-Pearson, A. K. A. Geraldo, B. Iles, D. Katsaros, T. Mullen, S. Nguyen, O. Spiro, and M. Sych.  In <a href="https://www.math.umass.edu/sites/www.math.umass.edu/files/newsletters/2017mathnewsletter.pdf">UMass Amherst Department of Mathematics & Statistics Newsletter</a> (2017) 
+<li> <a href="seminaryear1_deptnewsletter.pdf">Math Systems for Diagnosis and Treatment of Breast Cancer</a>, C. Amorin, G. P. Andrade, S. Castro-Pearson, <b>A. K. A. Geraldo</b>, B. Iles, D. Katsaros, T. Mullen, S. Nguyen, O. Spiro, and M. Sych.  In <a href="https://www.math.umass.edu/sites/www.math.umass.edu/files/newsletters/2017mathnewsletter.pdf">UMass Amherst Department of Mathematics & Statistics Newsletter</a> (2017) 
 
 <li> <a href="seminaryear1_deptnewsletter.pdf">Multiple Scale Modeling For Predictive Material Deformation Analysis</a>,  R. Aronow, A. d. Silva, R. Dennis, 
-A. K. A. Geraldo, D. Katsaros, M. Sych, and R. Touret.  In <a href="https://www.umass.edu/mathematics-statistics/sites/default/files/newsletters/2018_umass_math_newsletter_210.pdf">UMass Amherst Department of Mathematics & Statistics Newsletter</a> (2018) 	
+<b>A. K. A. Geraldo</b>, D. Katsaros, M. Sych, and R. Touret.  In <a href="https://www.umass.edu/mathematics-statistics/sites/default/files/newsletters/2018_umass_math_newsletter_210.pdf">UMass Amherst Department of Mathematics & Statistics Newsletter</a> (2018) 	
 	
 <hr>  </html>
 
