@@ -1,13 +1,17 @@
  
  
- 
-<tr> 
-<td>
- <IMG SRC="/.github/IMG-0880-a.jpg" width="80%"
-hspace="150" vspace="150"
-height="80%" ALT="photo"><P> 
-</td> 
-<td width="99%" valign="top">
+<body> 
+<table width="100%" border="0">
+	 
+<tr>
+<td width="30%">
+ <IMG SRC="/.github/IMG-0880-a.jpg" width="90%"
+hspace="30" vspace="30"
+height="90%" ALT="Logo"><P> 
+
+</td>
+<td  width="70%">
+	
 <H2>Abdel Kader A. Geraldo</H2>
    <A HREF="http://www.math.umass.edu/">Department of Mathematics and Statistics, UMass Amherst</A>
    <br>710 N. Pleasant Street 
@@ -19,6 +23,8 @@ height="80%" ALT="photo"><P>
 <br> <A HREF="#Articles">Articles and Manuscripts</A>  
 </td>
 </tr> 
+
+</table>  
 
 
 <br>
