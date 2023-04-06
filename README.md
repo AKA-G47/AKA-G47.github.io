@@ -4,14 +4,12 @@
 <table width="100%" border="0">
 	 
 <tr>
-<td width="25%">
-	<center>
+<td width="25%"> 
  <IMG SRC="/.github/IMG-0880-a.jpg" width="90%"
 hspace="30" vspace="30"
-height="90%" ALT="Logo"><center><P> 
-
+height="90%" alt="Logo" class="left" >  
 </td>
-<td  width="70%">
+<td  width="65%">
 	
 <H2>Abdel Kader A. Geraldo</H2>
    <A HREF="http://www.math.umass.edu/">Department of Mathematics and Statistics, UMass Amherst</A>
