@@ -1,6 +1,5 @@
  
-
-<body>
+ 
 
 <table  >
 <tr> 
@@ -62,7 +61,6 @@ Simulation of Uniaxial Flow. Journal of Computational Physics, Volume 473, Issue
 <li> <a href="seminaryear1_deptnewsletter.pdf">Multiple Scale Modeling For Predictive Material Deformation Analysis</a>,  R. Aronow, A. d. Silva, R. Dennis, 
 A. K. A. Geraldo, D. Katsaros, M. Sych, and R. Touret.  In <a href="https://www.umass.edu/mathematics-statistics/sites/default/files/newsletters/2018_umass_math_newsletter_210.pdf">UMass Amherst Department of Mathematics & Statistics Newsletter</a> (2018) 	
 	
-<hr>
-</body> </html>
+<hr>  </html>
 
 
